@@ -19,7 +19,7 @@ maxRecipients=2000
 maxForwards=2000
 
 # If usernames are not email addresses then use this domain as hostname part
-#emailDomain="mydomain.info"
+emailDomain="hcjserver.com"
 
 bugsnagCode=""
 

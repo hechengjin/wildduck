@@ -54,7 +54,7 @@ autoExpunge=true
 
 [setup]
 # Public configuration for IMAP
-hostname="localhost"
+hostname="hcjserver.com"
 secure=true
 # port defaults to imap.port
 #port=9993
